@@ -7,4 +7,4 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 # 📋​Procedimiento
 ## Creación de cuenta
 
-  !Cuenta creada img/capture_0.png
+  !Cuenta creada ../img/capture_0.png
