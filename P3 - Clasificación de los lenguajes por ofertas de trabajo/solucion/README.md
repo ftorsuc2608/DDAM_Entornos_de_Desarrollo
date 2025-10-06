@@ -53,7 +53,13 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   ![Texto alternativo](../img/)
   
 ## 🧠 Conclusión 
-  
+
+  Texto conclusión 
+
+|Lenguaje|N° ofertas|Puesto ranking global|
+|--------|----------|---------------------|
+|Java|137.000|1|
+
 ## 🇪🇸 Análisis nacional
 
   Texto de la imagen
