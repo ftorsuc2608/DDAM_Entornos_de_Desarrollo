@@ -32,7 +32,7 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
   Búsqueda de ofertas en todo el mundo para C#
 
-  ![Texto alternativo](../img/C#_world.png)
+  ![Texto alternativo](../img/Csharp_world.png)
   
   Búsqueda de ofertas en todo el mundo para C y C++
 
