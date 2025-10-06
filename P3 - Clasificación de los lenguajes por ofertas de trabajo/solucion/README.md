@@ -59,6 +59,13 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 |Lenguaje|N° ofertas|Puesto ranking global|
 |--------|----------|---------------------|
 |Java|137.000|1|
+|Python| | |
+|C#| | |
+|C y C++| | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 ## 🇪🇸 Análisis nacional
 
