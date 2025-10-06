@@ -18,6 +18,68 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
   ![Desactivación de búsquedadeempleo](../img/Capture_2.png)
   
+## Análisis global
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+## Análisis nacional
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
+  
   Texto de la imagen
 
   ![Texto alternativo](../img/)
