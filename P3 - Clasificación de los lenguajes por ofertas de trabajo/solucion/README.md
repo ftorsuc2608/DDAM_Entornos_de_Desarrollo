@@ -106,7 +106,7 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   Texto conclusión 
 
-|Lenguaje|N° ofertas|Puesto ranking global|
+|Lenguaje|N° ofertas|Puesto ranking nacional|
 |--------|----------|---------------------|
 |Java| | |
 |Python| | |
