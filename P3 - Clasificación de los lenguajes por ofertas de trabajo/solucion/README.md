@@ -1,6 +1,6 @@
 # 🖥️ Resolución de práctica: Demanda laboral de lenguajes de programación  
 
-## Objetivo:  
+## 🎯 Objetivo:  
   
 Analizar la demanda laboral de distintos lenguajes de programación en el mercado internacional y en España, utilizando la plataforma LinkedIn.
 
