@@ -5,7 +5,7 @@
 Analizar la demanda laboral de distintos lenguajes de programación en el mercado internacional y en España, utilizando la plataforma LinkedIn.
 
 # 📋​Procedimiento
-## Creación de cuenta  
+## 👤 Creación de cuenta  
   Creamos la cuenta de LinkedIn con el correo corporativo @g.educaand.es.
   
   ![Cuenta creada](../img/Capture_0.png)
@@ -18,7 +18,7 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
   ![Desactivación de búsquedadeempleo](../img/Capture_2.png)
   
-## Análisis global
+## 🌍 Análisis global
   Texto de la imagen
 
   ![Texto alternativo](../img/)
@@ -51,9 +51,9 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   ![Texto alternativo](../img/)
   
-###Conclusión 
+## 🧠 Conclusión 
   
-## Análisis nacional
+## 🇪🇸 Análisis nacional
   Texto de la imagen
 
   ![Texto alternativo](../img/)
@@ -86,4 +86,4 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   ![Texto alternativo](../img/)
   
-###Conclusión
+## 🧠 Conclusión
