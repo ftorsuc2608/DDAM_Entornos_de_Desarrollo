@@ -76,7 +76,11 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 ## 🇪🇸 Análisis nacional
 
   
-  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:
+  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:  
+  * Sin experiencia  
+  * En todo el mundo  
+  
+  ---
 
   Búsqueda de ofertas en España para Java
 
