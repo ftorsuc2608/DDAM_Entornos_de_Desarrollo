@@ -17,4 +17,8 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   Desactivamos la opción de búsqueda de empleo.
   
   ![Desactivación de búsquedadeempleo](../img/Capture_2.png)
+  
+  Texto de la imagen
+
+  ![Texto alternativo](../img/)
 
