@@ -22,7 +22,7 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
   Texto de la imagen
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/java_world.png)
   
   Texto de la imagen
 
