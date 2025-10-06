@@ -51,6 +51,8 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   ![Texto alternativo](../img/)
   
+###Conclusión 
+  
 ## Análisis nacional
   Texto de la imagen
 
@@ -83,4 +85,5 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   Texto de la imagen
 
   ![Texto alternativo](../img/)
-
+  
+###Conclusión
