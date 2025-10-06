@@ -58,14 +58,15 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
 |Lenguaje|N° ofertas|Puesto ranking global|
 |--------|----------|---------------------|
-|Java|137.000|1|
+|Java| | |
 |Python| | |
 |C#| | |
 |C y C++| | |
-| | | |
-| | | |
-| | | |
-| | | |
+|JavaScript| | |
+|PHP| | |
+|VB .NET| | |
+|Ruby| | |
+
 
 ## 🇪🇸 Análisis nacional
 
@@ -102,3 +103,16 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   ![Texto alternativo](../img/)
   
 ## 🧠 Conclusión
+
+  Texto conclusión 
+
+|Lenguaje|N° ofertas|Puesto ranking global|
+|--------|----------|---------------------|
+|Java| | |
+|Python| | |
+|C#| | |
+|C y C++| | |
+|JavaScript| | |
+|PHP| | |
+|VB .NET| | |
+|Ruby| | |
