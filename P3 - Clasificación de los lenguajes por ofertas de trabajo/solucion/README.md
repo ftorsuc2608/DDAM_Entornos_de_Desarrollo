@@ -20,8 +20,11 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
 ## 🌍 Análisis global
   
-  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:
-
+  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:  
+*Sin experiencia  
+*En todo el mundo  
+  
+  ---
   Búsqueda de ofertas en todo el mundo para Java
 
   ![Texto alternativo](../img/java_world.png)
@@ -72,37 +75,40 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
 ## 🇪🇸 Análisis nacional
 
-  Texto de la imagen
-
-  ![Texto alternativo](../img/)
   
-  Texto de la imagen
+  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:
 
-  ![Texto alternativo](../img/)
+  Búsqueda de ofertas en España para Java
+
+  ![Texto alternativo](../img/java_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para Python
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/python_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para C#
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/Csharp_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para C y C++
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/C_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para JavaScript
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/javascript_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para PHP
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/php_espana.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en España para VB .NET
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/vb_espana.png)
+  
+  Búsqueda de ofertas en España para Ruby
+
+  ![Texto alternativo](../img/ruby_espana.png)
   
 ## 🧠 Conclusión
 
