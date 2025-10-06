@@ -20,37 +20,39 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
 ## 🌍 Análisis global
   
-  Texto de la imagen
+  Para llevar a cabo el análisis hemos aplicado los siguientes filtros:
+
+  Búsqueda de ofertas en todo el mundo para Java
 
   ![Texto alternativo](../img/java_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para Python
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/python_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para C#
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/C#_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para C y C++
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/C_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para JavaScript
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/javascript_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para PHP
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/php_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para VB .NET
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/vb_world.png)
   
-  Texto de la imagen
+  Búsqueda de ofertas en todo el mundo para Ruby
 
-  ![Texto alternativo](../img/)
+  ![Texto alternativo](../img/ruby_world.png)
   
 ## 🧠 Conclusión 
 
