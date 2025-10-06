@@ -12,9 +12,9 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   Configuramos la visibilidad de la cuenta como perfil privado.
   
-  ![Cuenta creada](../img/Capture_1.png)
+  ![Perfil privado](../img/Capture_1.png)
 
-  Configuramos la visibilidad de la cuenta como perfil privado.
+  Desactivamos la opción de búsqueda de empleo.
   
-  ![Cuenta creada](../img/Capture_2.png)
+  ![Desactivación de búsquedadeempleo](../img/Capture_2.png)
 
