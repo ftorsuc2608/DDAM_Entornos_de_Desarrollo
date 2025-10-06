@@ -21,8 +21,8 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 ## 🌍 Análisis global
   
   Para llevar a cabo el análisis hemos aplicado los siguientes filtros:  
-*Sin experiencia  
-*En todo el mundo  
+  * Sin experiencia  
+  * En todo el mundo  
   
   ---
   Búsqueda de ofertas en todo el mundo para Java
