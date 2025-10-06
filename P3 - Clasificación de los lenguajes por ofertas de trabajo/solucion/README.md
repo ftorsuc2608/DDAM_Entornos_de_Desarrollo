@@ -22,6 +22,7 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
   Para llevar a cabo el análisis hemos aplicado los siguientes filtros:  
   * Sin experiencia  
+  * Jornada completa
   * En todo el mundo  
   
   ---
@@ -77,8 +78,9 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
 
   
   Para llevar a cabo el análisis hemos aplicado los siguientes filtros:  
-  * Sin experiencia  
-  * En todo el mundo  
+  * Sin experiencia 
+  * Jornada completa 
+  * España  
   
   ---
 
