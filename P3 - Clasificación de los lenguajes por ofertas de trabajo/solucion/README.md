@@ -60,18 +60,21 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
 ## 🧠 Conclusión 
 
-  Texto conclusión 
+  Podemos concluir que los tres lenguajes de programación más demandados a nivel global son:
+  * Python
+  * Java
+  * JavaScript
 
 |Lenguaje|N° ofertas|Puesto ranking global|
 |--------|----------|---------------------|
-|Java| 197.019 | |
-|Python| 206.218 | |
-|C#| 23.192 | |
-|C y C++| 42.433 | |
-|JavaScript| 177.833 | |
-|PHP| 24.267 | |
-|VB .NET| 2.554 | |
-|Ruby| 1.162 | |
+|Java| 197.019 | 2 |
+|Python| 206.218 | 1 |
+|C#| 23.192 | 6 |
+|C y C++| 42.433 | 4 |
+|JavaScript| 177.833 | 3 |
+|PHP| 24.267 | 5 |
+|VB .NET| 2.554 | 7 |
+|Ruby| 1.162 | 8 |
 
 
 ## 🇪🇸 Análisis nacional
@@ -118,15 +121,26 @@ Analizar la demanda laboral de distintos lenguajes de programación en el mercad
   
 ## 🧠 Conclusión
 
-  Texto conclusión 
+  Podemos concluir que los tres lenguajes de programación más demandados a nivel global son:
+  * Java
+  * JavaScript
+  * Python
 
 |Lenguaje|N° ofertas|Puesto ranking nacional|
 |--------|----------|---------------------|
-|Java| 3.021 | |
-|Python| 2.697 | |
-|C#| 312 | |
-|C y C++| 431 | |
-|JavaScript| 2.828 | |
-|PHP| 337 | |
-|VB .NET| 15 | |
-|Ruby| 9 | |
+|Java| 3.021 | 1 |
+|Python| 2.697 | 3 |
+|C#| 312 | 6 |
+|C y C++| 431 | 4 |
+|JavaScript| 2.828 | 2 |
+|PHP| 337 |  5 |
+|VB .NET| 15 | 7 |
+|Ruby| 9 | 8 |
+
+## 🧠 Conclusión general
+
+  Podemos concluir que los tres lenguajes de programación más demandados son:
+  * Java
+  * Python
+  * JavaScript
+  
