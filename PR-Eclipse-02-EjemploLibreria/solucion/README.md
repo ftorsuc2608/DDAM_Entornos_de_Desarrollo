@@ -14,7 +14,11 @@ Lo primero que debemos hacer es crear un nuevo proyecto java.
 
 ![Creación del proyecto](../img/create_java_project.png)
 
+Podemos ver que el proyecto se ha creado correctamente, con la librería por defecto y la carpeta src.
+
 ![Comprobación proyecto](../img/comprobacion_proyecto.png)
+
+Creamos una carpeta nueva con el nombre 'lib' en la que guardaremos los paquetes.
 
 ![Creación carpeta lib](../img/carpeta_lib.png)
 
