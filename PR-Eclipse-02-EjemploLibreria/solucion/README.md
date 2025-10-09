@@ -34,7 +34,8 @@ Para añador la librería al Build Path, haremos clic derecho sobre el proyecto 
 
 ![Ruta buildpath](../img/ruta_build_path.png)
 
-En la pestaña `Libraries` seleccionamos 
+En la pestaña `Libraries` seleccionamos `classpath` y añadimos la librería.
+
 ![Terminar buildpath](../img/build_path_hecho.png)
 
 ![Creación paquete](../img/creacion_paquete.png)
