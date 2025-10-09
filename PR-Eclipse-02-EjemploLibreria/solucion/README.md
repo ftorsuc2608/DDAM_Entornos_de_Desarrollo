@@ -42,11 +42,19 @@ Podemos ver que se ha creado una referencia al paquete que hemos importado en `R
 
 ![Referencia](../img/referenced_libraries.png)
 
+Creamos el paquete `es.iessaladillo.dam1.ed.u2`.
+
 ![Creación paquete](../img/creacion_paquete.png)
+
+Creamos la clase `EjemploLibreria.java`.
 
 ![Creacion clase](../img/creacion_clase.png)
 
+Introducimos el codigo modificado dentro de la clase.
+
 ![Código](../img/code.png)
+
+Se muestra la salida en consola.
 
 ![Consola](../img/salida_consola.png)
 
