@@ -30,6 +30,7 @@ Al introducir el paquete en la carpeta `lib` necesitamos refrescar el explorador
 
 ![Copiar el paquete](../img/copy_joda_time.png)
 
+Para añador la librería al Build Path, haremos clic derecho sobre el proyecto y seguiremos la ruta ``
 ![Ruta buildpath](../img/ruta_build_path.png)
 
 ![Terminar buildpath](../img/build_path_hecho.png)
