@@ -38,7 +38,7 @@ En la pestaña `Libraries` seleccionamos `classpath` y añadimos la librería.
 
 ![Terminar buildpath](../img/build_path_hecho.png)
 
-![Referencia](../img/referenced_library.png)
+![Referencia](../img/referenced_libraries.png)
 
 ![Creación paquete](../img/creacion_paquete.png)
 
