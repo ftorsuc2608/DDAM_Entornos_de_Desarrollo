@@ -18,11 +18,15 @@ Podemos ver que el proyecto se ha creado correctamente, con la librería por def
 
 ![Comprobación proyecto](../img/comprobacion_proyecto.png)
 
-Creamos una carpeta nueva con el nombre 'lib' en la que guardaremos los paquetes.
+Creamos una carpeta nueva con el nombre `lib` en la que guardaremos los paquetes.
 
 ![Creación carpeta lib](../img/carpeta_lib.png)
 
+Descargamos de internet el `.jar` que vamos a importar a nuestro proyecto.
+
 ![Descarga del paquete](../img/joda_time.png)
+
+Al introducir el paquete en la carpeta `lib` necesitamos refrescar el explorador del IDE. Ahora el paquete aparecerá en el panel del explorador.
 
 ![Copiar el paquete](../img/copy_joda_time.png)
 
