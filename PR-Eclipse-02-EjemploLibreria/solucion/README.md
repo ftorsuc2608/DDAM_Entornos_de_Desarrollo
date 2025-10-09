@@ -38,6 +38,8 @@ En la pestaña `Libraries` seleccionamos `classpath` y añadimos la librería.
 
 ![Terminar buildpath](../img/build_path_hecho.png)
 
+Podemos ver que se ha creado una referencia al paquete que hemos importado en `Referenced libraries`.
+
 ![Referencia](../img/referenced_libraries.png)
 
 ![Creación paquete](../img/creacion_paquete.png)
