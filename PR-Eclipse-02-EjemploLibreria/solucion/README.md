@@ -10,6 +10,8 @@ Aprender a incorporar una **librería externa (`.jar`)** al *Build Path* de un p
 
 ### **1. Crear el proyecto**
 
+Lo primero que debemos hacer es crear un nuevo proyecto java.
+
 ![Creación del proyecto](../img/create_java_project.png)
 
 ![Comprobación proyecto](../img/comprobacion_proyecto.png)
