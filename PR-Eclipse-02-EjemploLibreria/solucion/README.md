@@ -6,7 +6,7 @@ Aprender a incorporar una **librería externa (`.jar`)** al *Build Path* de un p
 
 ---
 
-## Realización de la práctica
+## 📖 Realización de la práctica
 
 ### **1. Crear el proyecto**
 
@@ -17,6 +17,8 @@ Lo primero que debemos hacer es crear un nuevo proyecto java.
 Podemos ver que el proyecto se ha creado correctamente, con la librería por defecto y la carpeta src.
 
 ![Comprobación proyecto](../img/comprobacion_proyecto.png)
+
+### **2. Importar el paquete**
 
 Creamos una carpeta nueva con el nombre `lib` en la que guardaremos los paquetes.
 
@@ -42,6 +44,8 @@ Podemos ver que se ha creado una referencia al paquete que hemos importado en `R
 
 ![Referencia](../img/referenced_libraries.png)
 
+### **3. Creación del código**
+
 Creamos el paquete `es.iessaladillo.dam1.ed.u2`.
 
 ![Creación paquete](../img/creacion_paquete.png)
@@ -54,11 +58,12 @@ Introducimos el codigo modificado dentro de la clase.
 
 ![Código](../img/code.png)
 
+### **4. Ejecución del codigo**
 Se muestra la salida en consola.
 
 ![Consola](../img/salida_consola.png)
 
-# Reflexión final
+# 🧠 Reflexión final
 
 ## ¿Qué pasaría si exporto el proyecto a un .zip y se lo paso a un amigo o me lo llevo al ordenador de casa? ¿Funcionaría? Razona la respuesta.
 
