@@ -31,7 +31,7 @@ La función `Auto activation delay (ms)` ayuda al programador mientras escribe c
 
 ### **4. Syntax Coloring**
 
-La función `Syntax Clouring` sirve para resaltar con diferentes colores las distintas partes del código fuente, según su función o tipo dentro del lenguaje de programación.
+La función `Syntax Coloring` sirve para resaltar con diferentes colores las distintas partes del código fuente, según su función o tipo dentro del lenguaje de programación.
 Tener un buen contraste visual en el código es muy importante porque mejora la legibilidad, concentración y comodidad visual del programador.
   
 ![Syntax Colouring](capturas/04_SyntaxColoring.png)
@@ -52,13 +52,30 @@ La función `Typing` facilita la escritura del código al completarlo y formatea
 ### **7. Templates**
 
 Las plantillas son fragmentos de código predefinidos que puedes insertar rápidamente mediante una palabra clave y la función `Content Assist`.
-Podemos modificar o añadir plantillas en `Window → Preferences → Java → Editor → Templates`
+Podemos modificar o añadir plantillas en `Window → Preferences → Java → Editor → Templates`.
 
 ![Typing](capturas/07_Templates.png)
 
-# 🧠 **Reflexión**
+# 🧠 **Tarea final**
 
+## Funciones
 
+Las funciones trabajadas en esta tarea son:
+- **Matching Bracket**: Ayuda al desarrollador a ver las aperturas y los cierres.
+- **Format source code**: Ajusta automáticamente la indentación, espaciado, saltos de línea y estilo del código.
+- **Organize imports**: Gestiona automáticamente las sentencias import al inicio del archivo.
+- **Content Assist**: Ofrece sugerencias automáticas mientras se escribe.
+- **Syntax Coloring**: Resalta con diferentes colores las distintas partes del código fuente.
+- **Mark Occurrences**: Permite ver rápidamente dónde se usa un elemento dentro del mismo archivo. 
+- **Search References**:  Permite buscar exhaustivamente todas las referencias en todo el proyecto o workspace.
+- **Typing**: Completa y formatea la sentencia automáticamente.
+- **Templates**: Permite guardar fragmentos de código predefinidos.
 
+## Reflexión
 
-
+Las funciones que veo más útiles son:
+  
+- **Matching Bracket**: Porque ayuda a no cometer errores al anidar elementos.
+- **Content Assist**: Porque ayuda a escribir más rápido el código.
+- **Syntax Coloring**: Porque es muy útil para diferenciar los elementos del código fuente.
+- **Templates**: Porque permite guardar fragmentos de código propios.
