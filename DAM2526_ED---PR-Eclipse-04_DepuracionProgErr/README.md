@@ -20,13 +20,15 @@ Los errores detectados han sido:
 - **ERROR 5**: No hay control sobre el valor introducido en `numAlumnos`.
 
 ## 2. Detección de errores
-- **ERRORES 1 Y 2**: Se detectó el error al introducir un valor  de `nota` inválido.
+- **ERROR 1**: Se detectó el error al introducir un valor  de `nota` inválido.
+- **ERROR 2**:  Se detectó el error al introducir un valor  de `nota` inválido.
 - **ERROR 3**: Se detectó el error al introducir un valor  de `nota` y de `numAlumnos` inválido.
 - **ERROR 4**: Se detectó el error al introducir un valor  de `nota` fuera de rango.
-- **ERROR 5**:
+- **ERROR 5**: Se detectó por la ausencia del `if` correspondiente.
   
 ## 3. Cambios en el código
-- **ERROR 1**: 
+- **ERROR 1**:
+
 - **ERROR 2**:
 - **ERROR 3**:
 - **ERROR 4**: 
