@@ -21,6 +21,8 @@ Los errores detectados han sido:
 - **ERROR 6**: La media no se calcula de forma correcta.
 
 ## 2. Detección de errores
+
+Los errores fueron detectados de la siguiente manera:
 - **ERROR 1**: Se detectó el error al introducir un valor  de `nota` inválido.
 - **ERROR 2**:  Se detectó el error al introducir un valor  de `nota` inválido.
 - **ERROR 3**: Se detectó el error al introducir un valor  de `nota` y de `numAlumnos` inválido.
@@ -29,6 +31,7 @@ Los errores detectados han sido:
 - **ERROR 6**: Se detectó porque el programa devuelve valores incorrectos si se añaden notas fuera del rango.
   
 ## 3. Cambios en el código
+Modificamos las siguientes partes del codigo:
 - **ERROR 1**:
 - **ERROR 2**:
 - **ERROR 3**:
@@ -38,7 +41,8 @@ Los errores detectados han sido:
 
 ## 4. Breakpoint condicional
 
-Configuramos un breakpoint condicional para que detenga el código si se introduce un valor fuera del rango.
+Configuramos un breakpoint condicional para que detenga el código si se introduce un valor fuera del rango (0-10).
+
 ![Breakpoint condicional](capturas/ConditionalBreakpoint.png)
 
 ## 5. Añadido de expresiones
