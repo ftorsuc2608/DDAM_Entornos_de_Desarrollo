@@ -9,13 +9,24 @@ El alumno deberá **modificar, comprobar y documentar** diferentes opciones del 
 
 ### **1. Opciones generales**
 
+![]()
+
 ### **2. Save Actions**
+
+![]()
 
 ### **3. Content Assist**
 
+![]()
+
 ### **4. Syntax Coloring**
+
+![]()
 
 ### **5. Mark Occurrences**
 
+![]()
+
 ### **6. Typing**
 
+![]()
