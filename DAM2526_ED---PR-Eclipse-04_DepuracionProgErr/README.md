@@ -18,6 +18,7 @@ Los errores detectados han sido:
 - **ERROR 3**: Si se introduce un valor no numérico para `nota` o `numAlumnos` se produce un error.
 - **ERROR 4**: Al introducir un valor fuera del rango de `nota`, el programa lo suma igualmente.
 - **ERROR 5**: No hay control sobre el valor introducido en `numAlumnos`.
+- **ERROR 6**: La media no se calcula de forma correcta.
 
 ## 2. Detección de errores
 - **ERROR 1**: Se detectó el error al introducir un valor  de `nota` inválido.
@@ -25,15 +26,16 @@ Los errores detectados han sido:
 - **ERROR 3**: Se detectó el error al introducir un valor  de `nota` y de `numAlumnos` inválido.
 - **ERROR 4**: Se detectó el error al introducir un valor  de `nota` fuera de rango.
 - **ERROR 5**: Se detectó por la ausencia del `if` correspondiente.
+- **ERROR 6**: Se detectó porque el programa devuelve valores incorrectos si se añaden notas fuera del rango.
   
 ## 3. Cambios en el código
 - **ERROR 1**:
-
 - **ERROR 2**:
 - **ERROR 3**:
 - **ERROR 4**: 
 - **ERROR 5**:
-  
+- **ERROR 6**:
+
 ## 4. Breakpoint condicional
 
 ## 5. Añadido de expresiones
