@@ -38,6 +38,13 @@ Los errores detectados han sido:
 
 ## 4. Breakpoint condicional
 
+Configuramos un breakpoint condicional para que detenga el código si se introduce un valor fuera del rango.
+![Breakpoint condicional](capturas/ConditionalBreakpoint.png)
+
 ## 5. Añadido de expresiones
 
+
+
 ## 6. Añadido de plantilla
+
+
