@@ -8,20 +8,21 @@
 * **Encontrar y describir** errores (compilación, ejecución o lógica) y corregirlos.
 * Entregar evidencias (capturas) + código corregido.
 
-## Crear el proyecto y la clase
+# 📋 Tareas
 
-## Guía rápida de depuración en Eclipse
+## 1. Descripción de errores
 
-# Tareas
+Los errores detectados han sido:
+- La variable `nota` devuelve un error si el tipo de dato es incorrecto.
+- Al introducir un valor inválido el programa continúa con el siguiente alumno, en lugar de volver a preguntar por el mismo.
+- Si se introduce un valor no numérico se produce un error.
 
-## 1.Descripción de errores
+## 2. Detección de errores
 
-## 2.Detección de errores
+## 3. Cambios en el código
 
-## 3.Cambios en el código
+## 4. Breakpoint condicional
 
-## 4.Breakpoint condicional
+## 5. Añadido de expresiones
 
-## 5.Añadido de expresiones
-
-## 6.Añadido de plantilla
+## 6. Añadido de plantilla
